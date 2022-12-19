@@ -166,7 +166,7 @@ h1{
     margin-inline-end: 0px;
     font-weight: bold;
 }
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 6in) {
     .calculatorOutbox{
     margin-top: 1%;
     height: 98%;
